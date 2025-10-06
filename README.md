@@ -8,6 +8,11 @@
 
 ---
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=lucifer-2606&label=Profile%20views&color=0e75b6&style=flat" alt="lucifer-2606" /> </p>
+
+---
+
+
 <h2 align="center">🚀 About Me</h2>
 
 Hi, I'm *Avijit Roy*, a passionate **Full Stack Developer** specializing in modern web technologies. Web Developer with hands-on experience in building responsive and user-friendly websites using *HTML*, *CSS*, *Bootstrap*, *Tailwind CSS*, *JavaScript*, *TypeScript*, *Node.js*, *MongoDB*. Skilled at creating clean, 
@@ -41,10 +46,11 @@ Hi, I'm *Avijit Roy*, a passionate **Full Stack Developer** specializing in mode
 <h2 align="center">📊 GitHub Stats & Contributions</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lucifer-2606&show_icons=true&theme=radical" alt="Chandan's GitHub Stats">
-  <img src="https://streak-stats.demolab.com/?user=Lucifer-2606&theme=radical" alt="Avijit's Streak Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lucifer-2606&show_icons=true&theme=radical" alt="Avijit's GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lucifer-2606&" alt="Lucifer-2606"/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lucifer-2606&theme=react-dark" alt="Contribution Graph">
 </div>
+
 
 ---
 
