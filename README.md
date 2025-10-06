@@ -63,8 +63,8 @@ Hi, I'm *Avijit Roy*, a passionate **Full Stack Developer** specializing in mode
     <img src="" alt="">
   </a>
 
-  <a href="https://github.com/duttachandan/Portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=duttachandan&repo=Portfolio&theme=radical" alt="Portfolio">
+  <a href="">
+    <img src="" alt="">
   </a>
 </div>
 
