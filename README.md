@@ -42,7 +42,7 @@ Hi, I'm *Avijit Roy*, a passionate **Full Stack Developer** specializing in mode
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Lucifer-2606&show_icons=true&theme=radical" alt="Chandan's GitHub Stats">
-  <img src="https://streak-stats.demolab.com/?user=Lucifer-2606&theme=radical" alt="Chandan's Streak Stats">
+  <img src="https://streak-stats.demolab.com/?user=Lucifer-2606&theme=radical" alt="Avijit's Streak Stats">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lucifer-2606&theme=react-dark" alt="Contribution Graph">
 </div>
 
