@@ -1,4 +1,4 @@
-<div align='center'><img align="center" alt="Coding" width="400" border-radius="20px" src="https://cdn.statically.io/img/i.pinimg.com/originals/16/fe/7e/16fe7e7fb6eebb3087b6dc418748ee56.gif"/></div>
+<div align='center'><img align="center" alt="Coding" width="400" src="https://cdn.statically.io/img/i.pinimg.com/originals/16/fe/7e/16fe7e7fb6eebb3087b6dc418748ee56.gif"/></div>
 
 ---
 
