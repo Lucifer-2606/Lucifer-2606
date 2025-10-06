@@ -1,34 +1,16 @@
-## Hi there 👋
-
-<!--
-**Lucifer-2606/Lucifer-2606** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
 <div align='center'><img align="center" alt="Coding" width="500" src="https://cdn.statically.io/img/i.pinimg.com/originals/16/fe/7e/16fe7e7fb6eebb3087b6dc418748ee56.gif"/></div>
 
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2000&color=3498DB&lines=Hello+there!+%F0%9F%91%8B;I+am+Avijit+Roy;Front+End+Developer;React.js+%7C+Node.js+%7C+Java" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2000&color=3498DB&lines=Hello+there!+%F0%9F%91%8B;I+am+Avijit+Roy;Front+End+Developer" alt="Typing SVG">
 </div>
 
 ---
 
 <h2 align="center">🚀 About Me</h2>
 
-Hi, I'm *Avijit Roy*, a passionate **Full Stack Developer** specializing in modern web technologies. I bring ideas to life with *React.js*, *Next.js*, *React Native*, *Node.js*, and *Java*. My tech journey revolves around building responsive and efficient web applications using tools like *Tailwind CSS*, *Bootstrap*, *MySql*, and *MongoDB*.
+Hi, I'm *Avijit Roy*, a passionate **Frontend Developer** specializing in modern web technologies. Web Developer with hands-on experience in building responsive and user-friendly websites using HTML, CSS, Bootstrap, Tailwind CSS and JavaScript. Skilled at creating clean, 
 
 ---
 
