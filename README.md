@@ -51,11 +51,7 @@ Hi, I'm *Avijit Roy*, a passionate **Full Stack Developer** specializing in mode
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Lucifer-2606&show_icons=true&theme=radical" alt="Avijit's GitHub Stats">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lucifer-2606&" alt="Lucifer-2606"/>
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lucifer-2606/Lucifer-2606/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lucifer-2606/Lucifer-2606/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Lucifer-2606/Lucifer-2606/output/pacman-contribution-graph.svg">
-</picture>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=duttachandan&theme=react-dark" alt="Contribution Graph">
 </div>
 
 
