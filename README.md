@@ -1,5 +1,6 @@
-<div align='center'><img align="center" alt="Coding" width="400" src="https://cdn.statically.io/img/i.pinimg.com/originals/16/fe/7e/16fe7e7fb6eebb3087b6dc418748ee56.gif"/></div>
-
+<div align="center">
+  <img height="200" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
 ---
 
 <div align="center">
@@ -48,7 +49,11 @@ Hi, I'm *Avijit Roy*, a passionate **Full Stack Developer** specializing in mode
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Lucifer-2606&show_icons=true&theme=radical" alt="Avijit's GitHub Stats">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lucifer-2606&" alt="Lucifer-2606"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lucifer-2606&theme=react-dark" alt="Contribution Graph">
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lucifer-2606/Lucifer-2606/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lucifer-2606/Lucifer-2606/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Lucifer-2606/Lucifer-2606/output/pacman-contribution-graph.svg">
+</picture>
 </div>
 
 
@@ -88,3 +93,4 @@ Hi, I'm *Avijit Roy*, a passionate **Full Stack Developer** specializing in mode
   <a href="https://github.com/Lucifer-2606">
     <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&
 ::contentReference[oaicite:1]{index=1}
+
